@@ -1,0 +1,247 @@
+2025-05-29T19:58:25.669Z: System initialized
+2025-05-29T19:58:25.670Z: 
+🔄 Processing batch 1...
+2025-05-29T19:58:25.984Z: 📦 Processing batch of 50 classes...
+2025-05-29T19:58:25.985Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:26.692Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:26.894Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:27.515Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:27.716Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:27.860Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:28.061Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:28.195Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:28.397Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:29.073Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:29.273Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:29.437Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:29.638Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:29.766Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:29.966Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:30.112Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:30.313Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:30.446Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:30.648Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:30.756Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:30.957Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:31.101Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:31.302Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:31.435Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:31.635Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:31.754Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:31.954Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:32.070Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:32.270Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:32.398Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:32.599Z: 🔍 Processing: Waves Leisure Centre
+2025-05-29T19:58:33.279Z: ✅ Enhanced: Waves Leisure Centre
+2025-05-29T19:58:33.479Z: 🔍 Processing: Active Leicester - Braunstone Leisure Centre
+2025-05-29T19:58:34.150Z: ✅ Enhanced: Active Leicester - Braunstone Leisure Centre
+2025-05-29T19:58:34.352Z: 🔍 Processing: 26 Hazel Road Community Centre
+2025-05-29T19:58:48.395Z: System initialized
+2025-05-29T19:58:48.396Z: 
+🔄 Processing batch 1...
+2025-05-29T19:58:48.492Z: 📦 Processing batch of 50 classes...
+2025-05-29T19:58:48.493Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:48.680Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:48.882Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:49.002Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:49.202Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:49.327Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:49.528Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:49.636Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:49.838Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:49.971Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:50.172Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:50.311Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:50.511Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:50.617Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:50.818Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:50.947Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:51.149Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:51.267Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:51.468Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:51.566Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:51.766Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:51.891Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:58:52.091Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:52.213Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:52.413Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:52.548Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:52.749Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:52.851Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:58:53.052Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:58:53.175Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:58:53.375Z: 🔍 Processing: Active Leicester - Braunstone Leisure Centre
+2025-05-29T19:58:53.504Z: ✅ Enhanced: Active Leicester - Braunstone Leisure Centre
+2025-05-29T19:58:53.704Z: 🔍 Processing: 26 Hazel Road Community Centre
+2025-05-29T19:58:53.995Z: ✅ Enhanced: 26 Hazel Road Community Centre
+2025-05-29T19:58:54.196Z: 🔍 Processing: Framwellgate Moor Community Centre
+2025-05-29T19:58:54.864Z: ✅ Enhanced: Framwellgate Moor Community Centre
+2025-05-29T19:58:55.065Z: 🔍 Processing: Freeman's Quay Leisure Centre
+2025-05-29T19:58:55.794Z: ✅ Enhanced: Freeman's Quay Leisure Centre
+2025-05-29T19:58:55.995Z: 🔍 Processing: Phoenix Community Centre
+2025-05-29T19:58:56.508Z: ✅ Enhanced: Phoenix Community Centre
+2025-05-29T19:58:56.709Z: 🔍 Processing: Holborn House Community Centre
+2025-05-29T19:58:57.430Z: ✅ Enhanced: Holborn House Community Centre
+2025-05-29T19:58:57.631Z: 🔍 Processing: Liskeard Leisure Centre
+2025-05-29T19:59:17.026Z: System initialized
+2025-05-29T19:59:17.027Z: 
+🔄 Processing batch 1...
+2025-05-29T19:59:17.126Z: 📦 Processing batch of 50 classes...
+2025-05-29T19:59:17.127Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:17.329Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:17.531Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:17.654Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:17.855Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:17.983Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:18.185Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:18.293Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:18.494Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:59:18.628Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:59:18.830Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:18.955Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:19.155Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:19.271Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:19.473Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:59:19.607Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:59:19.807Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:19.930Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:20.131Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:20.238Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:20.439Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:59:20.562Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T19:59:20.763Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:20.889Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:21.089Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:21.207Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:21.408Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:21.519Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T19:59:21.720Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T19:59:21.845Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T19:59:22.046Z: 🔍 Processing: Active Leicester - Braunstone Leisure Centre
+2025-05-29T19:59:22.177Z: ✅ Enhanced: Active Leicester - Braunstone Leisure Centre
+2025-05-29T19:59:22.378Z: 🔍 Processing: Framwellgate Moor Community Centre
+2025-05-29T19:59:22.491Z: ✅ Enhanced: Framwellgate Moor Community Centre
+2025-05-29T19:59:22.693Z: 🔍 Processing: Freeman's Quay Leisure Centre
+2025-05-29T19:59:22.828Z: ✅ Enhanced: Freeman's Quay Leisure Centre
+2025-05-29T19:59:23.028Z: 🔍 Processing: Phoenix Community Centre
+2025-05-29T19:59:23.134Z: ✅ Enhanced: Phoenix Community Centre
+2025-05-29T19:59:23.336Z: 🔍 Processing: Liskeard Leisure Centre
+2025-05-29T19:59:23.605Z: ✅ Enhanced: Liskeard Leisure Centre
+2025-05-29T19:59:23.805Z: 🔍 Processing: Penzance Leisure Centre
+2025-05-29T19:59:24.556Z: ✅ Enhanced: Penzance Leisure Centre
+2025-05-29T19:59:24.757Z: 🔍 Processing: Warminster Garrison Community Centre
+2025-05-29T19:59:25.337Z: ✅ Enhanced: Warminster Garrison Community Centre
+2025-05-29T19:59:25.538Z: 🔍 Processing: Camelford Leisure Centre
+2025-05-29T19:59:26.361Z: ✅ Enhanced: Camelford Leisure Centre
+2025-05-29T20:00:16.547Z: System initialized
+2025-05-29T20:00:16.549Z: 
+🔄 Processing batch 1...
+2025-05-29T20:00:16.648Z: 📦 Processing batch of 50 classes...
+2025-05-29T20:00:16.649Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:16.878Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:17.080Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:17.197Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:17.398Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:17.533Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:17.734Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:17.843Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:18.047Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:18.181Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:18.383Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:18.512Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:18.712Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:18.831Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:19.033Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:19.166Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:19.368Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:19.487Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:19.687Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:19.792Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:19.992Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:20.120Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:20.321Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:20.440Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:20.640Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:20.763Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:20.964Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:21.071Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:21.271Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:21.396Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:21.597Z: 🔍 Processing: Active Leicester - Braunstone Leisure Centre
+2025-05-29T20:00:21.761Z: ✅ Enhanced: Active Leicester - Braunstone Leisure Centre
+2025-05-29T20:00:21.961Z: 🔍 Processing: Framwellgate Moor Community Centre
+2025-05-29T20:00:22.084Z: ✅ Enhanced: Framwellgate Moor Community Centre
+2025-05-29T20:00:22.285Z: 🔍 Processing: Freeman's Quay Leisure Centre
+2025-05-29T20:00:22.425Z: ✅ Enhanced: Freeman's Quay Leisure Centre
+2025-05-29T20:00:22.627Z: 🔍 Processing: Phoenix Community Centre
+2025-05-29T20:00:22.739Z: ✅ Enhanced: Phoenix Community Centre
+2025-05-29T20:00:22.940Z: 🔍 Processing: Liskeard Leisure Centre
+2025-05-29T20:00:23.081Z: ✅ Enhanced: Liskeard Leisure Centre
+2025-05-29T20:00:23.281Z: 🔍 Processing: Penzance Leisure Centre
+2025-05-29T20:00:23.417Z: ✅ Enhanced: Penzance Leisure Centre
+2025-05-29T20:00:23.621Z: 🔍 Processing: Warminster Garrison Community Centre
+2025-05-29T20:00:23.744Z: ✅ Enhanced: Warminster Garrison Community Centre
+2025-05-29T20:00:23.944Z: 🔍 Processing: Camelford Leisure Centre
+2025-05-29T20:00:24.074Z: ✅ Enhanced: Camelford Leisure Centre
+2025-05-29T20:00:24.275Z: 🔍 Processing: Pingles Leisure Centre
+2025-05-29T20:00:24.888Z: ✅ Enhanced: Pingles Leisure Centre
+2025-05-29T20:00:25.089Z: 🔍 Processing: Shenley Leisure Centre
+2025-05-29T20:00:25.761Z: ✅ Enhanced: Shenley Leisure Centre
+2025-05-29T20:00:31.706Z: System initialized
+2025-05-29T20:00:31.707Z: 
+🔄 Processing batch 1...
+2025-05-29T20:00:31.805Z: 📦 Processing batch of 50 classes...
+2025-05-29T20:00:31.806Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:32.011Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:32.213Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:32.321Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:32.521Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:32.649Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:32.851Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:32.956Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:33.158Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:33.284Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:33.485Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:33.627Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:33.827Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:33.936Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:34.137Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:34.268Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:34.469Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:34.592Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:34.793Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:34.899Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:35.100Z: 🔍 Processing: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:35.225Z: ✅ Enhanced: BCP Leisure Poole Dolphin Leisure Centre
+2025-05-29T20:00:35.427Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:35.556Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:35.757Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:35.877Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:36.079Z: 🔍 Processing: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:36.202Z: ✅ Enhanced: BCP Leisure Rossmore Leisure Centre
+2025-05-29T20:00:36.402Z: 🔍 Processing: Stanleys Community Centre
+2025-05-29T20:00:36.528Z: ✅ Enhanced: Stanleys Community Centre
+2025-05-29T20:00:36.729Z: 🔍 Processing: Active Leicester - Braunstone Leisure Centre
+2025-05-29T20:00:36.860Z: ✅ Enhanced: Active Leicester - Braunstone Leisure Centre
+2025-05-29T20:00:37.061Z: 🔍 Processing: Framwellgate Moor Community Centre
+2025-05-29T20:00:37.172Z: ✅ Enhanced: Framwellgate Moor Community Centre
+2025-05-29T20:00:37.373Z: 🔍 Processing: Freeman's Quay Leisure Centre
+2025-05-29T20:00:37.505Z: ✅ Enhanced: Freeman's Quay Leisure Centre
+2025-05-29T20:00:37.709Z: 🔍 Processing: Phoenix Community Centre
+2025-05-29T20:00:37.819Z: ✅ Enhanced: Phoenix Community Centre
+2025-05-29T20:00:38.020Z: 🔍 Processing: Liskeard Leisure Centre
+2025-05-29T20:00:38.157Z: ✅ Enhanced: Liskeard Leisure Centre
+2025-05-29T20:00:38.358Z: 🔍 Processing: Penzance Leisure Centre
+2025-05-29T20:00:38.487Z: ✅ Enhanced: Penzance Leisure Centre
+2025-05-29T20:00:38.688Z: 🔍 Processing: Warminster Garrison Community Centre
+2025-05-29T20:00:38.820Z: ✅ Enhanced: Warminster Garrison Community Centre
+2025-05-29T20:00:39.021Z: 🔍 Processing: Camelford Leisure Centre
+2025-05-29T20:00:39.155Z: ✅ Enhanced: Camelford Leisure Centre
+2025-05-29T20:00:39.356Z: 🔍 Processing: Pingles Leisure Centre
+2025-05-29T20:00:39.496Z: ✅ Enhanced: Pingles Leisure Centre
+2025-05-29T20:00:39.697Z: 🔍 Processing: Shenley Leisure Centre
+2025-05-29T20:00:39.821Z: ✅ Enhanced: Shenley Leisure Centre
+2025-05-29T20:00:40.022Z: 🔍 Processing: Bodmin Leisure Centre
+2025-05-29T20:00:40.648Z: ✅ Enhanced: Bodmin Leisure Centre
+2025-05-29T20:00:40.849Z: 🔍 Processing: Newcourt Community Centre
