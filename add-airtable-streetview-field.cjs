@@ -30,6 +30,7 @@ async function addStreetViewFieldToAirtable() {
     console.log('✅ Parents can see building exterior and parking areas');
     console.log('✅ Helps with venue identification and accessibility planning');
 
+    // Test connection to verify Airtable access
     const records = await base('Classes').select({
       maxRecords: 1,
       fields: ['Name']
